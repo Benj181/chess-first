@@ -2,7 +2,7 @@ from lib.classes import *
 from lib.engine import *
 import lib.globals as g
 import pygame 
-# test
+
 pygame.init()
 screenSize = 800
 screen = pygame.display.set_mode((screenSize, screenSize))
